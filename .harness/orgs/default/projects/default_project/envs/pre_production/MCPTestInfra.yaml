@@ -1,0 +1,8 @@
+environment:
+  name: MCPTestInfra
+  identifier: MCPTestInfra
+  description: ""
+  tags: {}
+  type: PreProduction
+  orgIdentifier: default
+  projectIdentifier: default_project
